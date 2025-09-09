@@ -1,0 +1,46 @@
+﻿body{
+	background-color: orange;
+}
+
+.center{
+text-align: center;
+}
+
+ul.lista{
+list-style-type: none;
+font-size:30px;
+}
+
+ul.Ingredients {
+list-style-type: decimal;
+background-color: white;
+border-width: medium;
+border-style: solid;
+}
+
+
+ul.Process {
+list-style-type: decimal;
+background-color: white;
+border-width: medium;
+border-style: solid;
+}
+
+a{
+background-color: white;
+border-width: medium;
+border-style: solid;
+}
+
+h2{
+background-color: pink;
+}
+
+h3{
+background-color: gray;
+border-width: medium;
+border-style: solid;
+}
+
+
+

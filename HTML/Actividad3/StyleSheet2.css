@@ -1,0 +1,27 @@
+﻿body{
+background-color: pink;
+
+}
+table h1{
+background-color: yellow;
+text-decoration: Underline;
+text-transform: Uppercase;
+
+}
+
+table{
+    background-color: gray;
+    
+}
+table td{
+    border: none;
+}
+ 
+p{
+font-weight: bolder;
+}
+
+h1, table{
+    width: 500px;
+    float: left;
+}
